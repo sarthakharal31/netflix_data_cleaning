@@ -55,5 +55,5 @@ I enjoy working with real-world datasets and applying what I learn to build my p
 ---
 
 ## 📬 Let’s Connect!
-Feel free to connect with me on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/sarthak-haral-524818348/)). 
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sarthak-haral-524818348/). 
 I'm always open to feedback, suggestions, or collaboration ideas!
